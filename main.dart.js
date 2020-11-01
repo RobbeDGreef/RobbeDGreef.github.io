@@ -83367,7 +83367,7 @@ MV:function(){return this.rG(!1)},
 aav:function(a){var s=0,r=P.I(t.z),q,p=this,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$rG=P.E(function(b,a0){if(b===1)return P.F(a0,r)
 while(true)switch(s){case 0:if(!a)p.I(new B.alJ(p))
-o="https://today.vub.be/nl/nieuws"+("?page="+p.r)
+o="https://cors-anywhere.herokuapp.com/https://today.vub.be/nl/nieuws"+("?page="+p.r)
 for(n=p.x,m=n.length,l=p.e,k=!1,j=0,i=0;i<n.length;n.length===m||(0,H.M)(n),++i){if(n[i]){h="sub selected: "+j
 g=$.fy
 if(g==null)H.f9(h)

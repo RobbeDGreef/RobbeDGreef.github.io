@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "b9d1d2e332e9b8f2bf3c56a0020c754f",
+  "main.dart.js": "6280093ebff9896f5f076fa77a327d51",
 "assets/assets/canvasLogo.png": "1ded6685c167801952978b14dbd07a6d",
 "assets/assets/VubMapNew.png": "93764db746b32086dbf55982542e765f",
 "assets/assets/meeting.svg": "5ded8e0e94fff27d4cfff7b91913a5af",
@@ -23,8 +23,8 @@ const RESOURCES = {
 "assets/packages/open_iconic_flutter/assets/open-iconic.woff": "3cf97837524dd7445e9d1462e3c4afe2",
 "version.json": "93004d15024330e0faaf1de54937b537",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "5fd1460d96f2bd0b4b711dbc52630c91",
-"/": "5fd1460d96f2bd0b4b711dbc52630c91",
+"index.html": "cb93596c7b134114c7913f7fe9b06f24",
+"/": "cb93596c7b134114c7913f7fe9b06f24",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "b47ee0ed877d76722b5a6c1b9833c98b"
