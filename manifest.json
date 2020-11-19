@@ -1,11 +1,11 @@
 {
-    "name": "VubHub",
-    "short_name": "VubHub",
+    "name": "fvub",
+    "short_name": "fvub",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Unofficial VUB app",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
