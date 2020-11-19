@@ -27,8 +27,8 @@ const RESOURCES = {
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "version.json": "9d31d26d6e47929b3ba2898233da5c18",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "fc7b402861415e3dd5de7edc1bddae5b",
-"/": "fc7b402861415e3dd5de7edc1bddae5b",
+"index.html": "b1cadac9bc35b3895d5d2ea5bf10cab5",
+"/": "b1cadac9bc35b3895d5d2ea5bf10cab5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "fe9284721a1f749991700a24d1c83eb4"
