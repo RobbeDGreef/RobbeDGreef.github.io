@@ -95390,7 +95390,7 @@ default:s=r.f=L.G("Something went wrong",q,q,q,q,q,q,q)
 break}return s},
 C:function(a,b){var s,r,q,p=this,o=null,n=p.e,m=K.V(b).b
 if(m==null)m=o
-s=H.b(["Today","Course information","VUB campus map","Places","News"],t.i)
+s=H.b(["Day view","Course information","VUB campus map","Places","News"],t.i)
 r=H.b([B.hu(o,L.az(C.Jg,o,o),24,new F.awE(p),C.aW,o)],t.AA)
 q=p.d
 if(q.c&&!q.r)return M.cT(o,new B.AG(q,new F.awF(p),o),o,o,!1,o,o,o)
