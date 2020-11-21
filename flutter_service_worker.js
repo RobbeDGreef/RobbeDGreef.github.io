@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "f44a792ddfdeb328a2ee4854dca5e0be",
+  "main.dart.js": "7a3a609d612285003527465490e426d2",
 "assets/assets/canvasLogo.png": "1ded6685c167801952978b14dbd07a6d",
 "assets/assets/VubMapNew.png": "93764db746b32086dbf55982542e765f",
 "assets/assets/vub-cs2.png": "1e673701b593cf79d0b94100ff4a3c90",
@@ -28,8 +28,8 @@ const RESOURCES = {
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "vub-logo-custom-simple.png": "6c36f5e7167cf476c4ddee548ba89900",
 "version.json": "9d31d26d6e47929b3ba2898233da5c18",
-"index.html": "0fc14b1eb20743d42d3863cc46092479",
-"/": "0fc14b1eb20743d42d3863cc46092479",
+"index.html": "179b9a2ff82bcfd04a716076aaa53a3a",
+"/": "179b9a2ff82bcfd04a716076aaa53a3a",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/vub-logo-custom-simplebg-192.png": "b515a65c13b392ea8792d4e0e4dbce61",
